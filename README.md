@@ -1,1 +1,1 @@
-My first in ALX program
+My first day in ALX program
